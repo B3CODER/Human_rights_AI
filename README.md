@@ -82,7 +82,7 @@ The dataset used for this project is `Human_Rights_AI.csv`, which includes queri
 
 1. **Clone the Repository**:
     ```bash
-    git clone <repository_url>
+    git clone <https://github.com/B3CODER/Human_rights_AI>
     cd <repository_directory>
     ```
 
@@ -108,3 +108,4 @@ The dataset used for this project is `Human_Rights_AI.csv`, which includes queri
 To train the model, run:
 ```bash
 python main.py --train
+```

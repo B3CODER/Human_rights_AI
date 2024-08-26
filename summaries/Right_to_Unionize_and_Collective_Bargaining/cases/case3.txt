@@ -1,0 +1,22 @@
+The judgment from the Delhi High Court on July 15, 2024, in the case of Steel Authority of India Ltd vs Noble Chartering Inc deals with cross appeals challenging the enforcement of an arbitral award. Here is a summary of the key points:
+
+Background
+Parties Involved: Steel Authority of India Limited (SAIL) and Noble Chartering Inc.
+Contract: The dispute arises from a Contract of Affreightment (COA) dated August 20, 2008, under which SAIL agreed to ship coking coal from the USA to India over a three-year period.
+Issues: The dispute includes allegations that SAIL failed to declare shipments on a "fairly evenly spread" basis, as required by the COA. Noble Chartering claimed damages due to SAIL’s alleged breach.
+Arbitration and Award
+Arbitral Tribunal: An award was issued by an Arbitral Tribunal on December 27, 2017.
+Award: The Tribunal awarded Noble Chartering USD 8,524,908.60 in damages, along with interest and future interest, for breach of the COA.
+Legal Challenge: SAIL challenged the award under Section 34 of the Arbitration & Conciliation Act, 1996, arguing that the award was incorrect and should be set aside.
+Single Judge’s Decision
+Partial Allowance: The learned Single Judge partly allowed SAIL's application. The damages were reduced to USD 2,013,585.60 (reflecting only the shipment shortfall for December 2012), and the interest rate was modified to LIBOR plus 3%.
+Reasoning: The Single Judge found that some aspects of the award, particularly the calculation of damages for periods after the termination of the COA, were erroneous.
+Issues on Appeal
+Interpretation of Contract Terms: Whether the Arbitral Tribunal's interpretation of the COA was correct, particularly regarding the requirement for shipments to be "fairly evenly spread."
+Public Policy Exception: Whether the Arbitral Tribunal's decision was in violation of public policy as per Section 34(2)(b)(ii) of the A&C Act.
+Key Points from the Judgment
+Contract Interpretation: The Arbitral Tribunal's interpretation of the COA, particularly the term "fairly evenly spread," was upheld by the court. The Tribunal’s decision was deemed consistent with industry practices and the terms of the contract.
+Public Policy: The court noted that misinterpretation of contractual terms by the Tribunal does not necessarily invalidate the award under public policy grounds.
+Overall, the Delhi High Court’s decision reaffirms the limited grounds on which arbitral awards can be challenged under Indian law, emphasizing that contractual interpretation and factual findings by an arbitrator are generally beyond judicial interference unless they breach fundamental principles of public policy.
+
+complete case link - https://indiankanoon.org/doc/180053965/

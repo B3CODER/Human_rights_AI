@@ -1,0 +1,27 @@
+In the case of M/S Deutsche Lufthansa Ag vs. Mr. Nayan Pahwa & Ors. decided on 6 August 2024, the Delhi High Court, presided over by Justice Chandra Dhari Singh, examined a petition filed under Articles 226 and 227 of the Constitution of India. The petition challenged the award dated 3rd July 2023 passed by the Central Government Industrial Tribunal cum Labour Court-II, New Delhi. The tribunal had ordered the reinstatement of 17 terminated cabin crew members along with back wages.
+
+Case Summary:
+Background:
+
+Employment and Dispute: The petitioner, an international airline, employed the respondents (members of the Lufthansa Cabin Crew Association) on fixed-term contracts. Due to financial issues exacerbated by the pandemic, the airline placed crew members on unpaid leave and later terminated their contracts.
+
+Legal Proceedings:
+
+Initial Dispute: The termination led to disputes referred to the Central Government Industrial Tribunal (I.D. No. 5/2018).
+Section 33A Application: During the pendency of this dispute, an application under Section 33A of the Industrial Disputes Act, 1947 was filed by the terminated crew members. They alleged that their termination violated Section 33 of the Act, which requires prior permission from the tribunal for termination during ongoing disputes.
+Impugned Award: The tribunal ruled in favor of the terminated employees, directing their reinstatement and back wages, which the petitioner is now challenging.
+
+Petitioner's Grounds for Challenge:
+
+Tribunal's Jurisdiction: The petitioner argues that the tribunal should have first decided if I.D. No. 5/2018 constituted an "industrial dispute" before addressing the Section 33A application.
+Misinterpretation of Law: They claim that the tribunal incorrectly assumed the pendency of I.D. No. 5/2018 was sufficient for the Section 33A application.
+Procedural Errors: Allegations include improper consideration of evidence, issues of authorization and representation, and misinterpretation of legal precedents.
+Nature of Termination: The petitioner contends that the termination was non-punitive and thus not covered under Section 33 of the ID Act, which they believe makes the tribunal’s decision flawed.
+Respondent's Counterarguments:
+
+Delay and Laches: The respondents argue that the petition is belated, aiming to deny them the benefits of the tribunal's award.
+Previous Litigation: They assert that the issues raised by the petitioner have already been adjudicated in prior writ petitions and should be considered res judicata.
+Compliance with Tribunal Orders: The tribunal's orders, including those dismissing the petitioner's requests to stay proceedings or to adjudicate preliminary issues, are cited to argue that the petitioner had multiple opportunities to present their case.
+The High Court will need to consider whether the tribunal acted within its jurisdiction and properly interpreted the legal standards concerning Section 33A and Section 33 of the ID Act. Additionally, it will address the procedural and substantive arguments presented by both parties.
+
+complete case link - https://indiankanoon.org/doc/86523319/

@@ -1,0 +1,310 @@
+Here's a rewritten version that includes all the original content but is structured more clearly:
+
+---
+
+### 1. Introduction
+
+1. Murray (2001) provides a comprehensive review of the adoption of Convention No. 1. She highlights that the primary concern of the ILO in 1919 was not merely avoiding exhaustion or death from overwork but rather finding the optimal balance between work and non-work to ensure that standard workers could lead fulfilling lives as members of civilized societies (p. 43, emphasis original).
+
+2. The adoption of the 48-hour working week was intended to introduce flexibility to the eight-hour working day. Workers initially viewed the eight-hour day as a strict standard: eight hours of work per day for six days a week, with possible four-hour days on Saturdays. Employers, skeptical of the practicality of the eight-hour day, agreed to the 48-hour week in principle. The resulting Convention embodied the principle of the 48-hour week, allowing for greater flexibility in work arrangements, such as longer hours on some days to accommodate half or full holidays on others (Alcock 1971: 43).
+
+3. For more details, visit [ILO’s Travdatabase](www.ilo.org/travdatabase).
+
+4. This chapter primarily relies on labor force survey data. For a study based on time-use surveys, see Blackden and Wodon (eds) (2006).
+
+### 2. Legal Progress Towards Reducing Working Hours
+
+1. Murray also notes the influence of ILO Director Albert Thomas, who believed that shorter working hours would enhance productivity (2001: 45–46).
+
+2. Articles 24, 7(d), 2, and 31(2) of various conventions provide the framework for labor standards.
+
+3. The Additional Protocol to the American Convention on Human Rights in the Area of Economic, Social and Cultural Rights (1988) and legislation from countries such as Argentina, Costa Rica, Cuba, El Salvador, Guatemala, Mexico, Nicaragua, Panama, Paraguay, Peru, and Venezuela, among others, reflect these standards.
+
+4. Countries including Bulgaria, Latvia, Lithuania, and Slovakia also have relevant legislation.
+
+5. The database includes information on maternity protection and minimum wages.
+
+6. In India, the 48-hour limit applies to specific sectors and occupations, including factories.
+
+7. For comparability, leave periods specified in Table 2.5 apply to a five-day working week.
+
+### 3. Global Trends in Actual Working Hours
+
+1. In some countries, workers do not use their statutory leave due to various reasons, notably in Asian countries like Japan and the Republic of Korea. The reasons for this are complex (Japan Institute of Labour 2002).
+
+2. Certain countries like Croatia, Slovakia, and Ukraine are excluded from some analyses due to apparent measurement errors.
+
+3. Consider a hypothetical example: two countries with three workers each have the same average working hours of 40 per week. In country A, all three workers work exactly 40 hours, while in country B, the hours vary between 20, 40, and 60 per week. The welfare implications of these averages differ significantly.
+
+4. Factors such as exemptions for certain occupations and sectors affect the coverage of regulations (discussed in Chapter 6).
+
+5. The discussion in this subsection draws on Lee and McCann (2007).
+
+6. The focus group refers primarily to 44 and 45 hours, as only two countries have standards within this range.
+
+7. Normalization is calculated using the formula [(10/13 * (48-SHi))] and [(1/10 * ORi)] where SHi is the statutory hours for country i, and ORi is the observance rate.
+
+8. The Republic of Korea, still implementing the 40-hour working week, is expected to have high non-observance even after full implementation.
+
+9. Understanding the relationship between statutory limits and observance is crucial for any index on working time regulation.
+
+10. The distinction between employee and self-employed in labor statistics may not align with legal definitions.
+
+11. Estimates are for paid employees only, as they are more likely to be affected by convention ratification. Self-employed individuals are excluded.
+
+### 4. Gender, Age, and Working Time
+
+1. Women’s participation in the global labor force has not yet reached parity with men, though the gap is narrowing. In 2003, there were only 63 women active in the global labor force for every 100 active men (ILO 2004: 5).
+
+2. Recent estimates (2004) show a slight decline in women's labor force participation, mainly due to decreased participation among young women, reflecting a broader trend of youth engagement in education (ILO 2005a).
+
+3. The gender analysis from 1992 to 2001 shows that men generally worked longer paid hours than women. The situation in Hungary is representative of many countries worldwide.
+
+4. The Hungary analysis suggests that equalizing unpaid family-related work between men and women could likely increase women's paid work hours.
+
+5. Part-time work is defined here as paid work of less than 35 hours per week on average.
+
+6. The ILO Workers with Family Responsibilities Recommendation, 1981 (No. 165) advocates for a progressive reduction of work hours and more flexible working arrangements to support workers with families.
+
+7. Correlation coefficients based on merged data are discussed, and results are valid even when analyzed by individual countries.
+
+8. In countries with high child/youth labor incidence, the early stages of the life course may be truncated. However, a global decline in youth labor force participation is primarily due to increased educational engagement (ILO 2005a).
+
+9. Studies by Naegele et al. (2003), Anxo and Boulin (eds, 2005), and Anxo et al. (2006) argue for reorganizing time across the life course to accommodate diverse personal circumstances and preferences.
+
+10. Data on average working hours by age were presented in few country reports, with variations in age categories.
+
+11. Jolivet and Lee (2004) found that older workers in EU Member States exhibited greater diversity in working hours, including both longer and shorter hours.
+
+12. The Spearman correlation coefficient = –0.156, statistically significant at the 0.01 level.
+
+13. Differences in datasets prevented a common threshold for part-time hours across countries. Thresholds vary from less than 30 to 40 hours per week.
+
+14. In Russia, a notable change occurred between 1999-2000 and 2001–2.
+
+15. Age categories disaggregated by sex were not available for most countries due to data limitations.
+
+### 5. Tertiarization, Informalization, and Working Time
+
+1. Comparisons based on average work hours can be problematic where there are significant part-time worker proportions. Part-time work is less common in the formal economy of developing countries, with exceptions in community, social, and personal services (see Table 5.4).
+
+2. The ISIC-Revision 3 classification of economic activities is used for convenience, as it is the most recent and widely reported scheme. Some countries still use ISIC-Revision 2, which is similar but not identical.
+
+3. In countries using ISIC-Revision 2, certain subsectors are combined differently compared to Revision 3.
+
+4. Tourism in Jamaica is a major component of the service sector with high part-time work, though hotels and restaurants linked to tourism have relatively low part-time rates.
+
+5. For this discussion, part-time work is not considered a flexible working time arrangement, which generally involves alternative shift patterns.
+
+6. The informal economy, predominant in African employment, will be discussed in the next section.
+
+7. Of the ten new EU Member States, eight are transition economies; Cyprus and Malta are exceptions.
+
+8. Separate figures for the tourism industry in Jamaica are provided due to its importance in the country.
+
+9. According to the ILO's conceptual framework, informal employment includes own-account workers and employers in informal sector enterprises, characterized by a lack of financial separation between the enterprise and its owners (Hussmanns 2004: 3).
+
+10. Data from ILO surveys on working hours among self-employed individuals show variations at one point in time but not over time.
+
+11. In industrialized countries, some disadvantaged individuals are pushed into self-employment by a lack of alternatives, which can also result in short hours due to underemployment.
+
+12. If the 48-hour category is included, additional countries like Bolivia, Mexico, and Madagascar show significant proportions of self-employed workers working long hours.
+
+13. In Peru, nearly half of all self-employed workers worked 49 hours or more per week, though sex-disaggregated data were not available.
+
+14. Maloney (p. 1162) notes that women in informal self-employment may find it easier to balance work and home responsibilities compared to being employees, despite the limited alternatives available.
+
+15. Irregular occupations, such as temporary employment with official contracts, are also considered.
+
+16. High proportions of 'unknown' hours in Bulgaria (29.9%) and Hungary (32.4%) complicate the interpretation of working hours for the self-employed in these countries.
+
+17. Self-employed individuals in industrialized countries are more likely to have formal, incorporated businesses and participate in social security and insurance schemes (ILO 2002a).
+
+### 6. Working Time Issues in Developing Countries
+
+1. The ILO’s Reduction of Hours of Work Recommendation, 1962 (No. 116), advocates for reducing normal working hours without decreasing wages (Paragraph 4).
+
+2. Hourly wage data are not presented, but it is plausible that workers with long hours may have lower hourly wages and extend their hours to compensate.
+
+3. Countries such as Cyprus, the Czech Republic, Estonia, Hungary, Latvia, Lithuania, Malta, Poland, Slovakia, and Slovenia have relevant legislation.
+
+4. Council Directive (EC) 93/104 concerning aspects of working time organization [1993] and Council
+
+ Directive (EC) 2003/88 concerning the organization of working time [2003] are applicable in the European Union.
+
+5. An estimate of 7% for part-time workers in the EU-15 is reported, with substantial variations between countries and sectors.
+
+6. The data on women’s employment are representative of broader patterns of full-time and part-time work.
+
+7. Gender disparities in working hours are evident across various countries, with significant differences between men and women.
+
+8. Data on long working hours, including a breakdown by gender, are presented for Germany, Mexico, and Japan.
+
+9. Working hours in the informal economy are a significant concern in developing countries, with informal sector workers often facing uncertain work conditions and lower wages.
+
+10. Informal employment often lacks formal contracts, leading to variability in working hours and job security.
+
+11. In summary, working time regulation varies widely across different countries and sectors, reflecting broader trends in economic development and labor market dynamics.
+
+12. The focus on working hours in various contexts highlights the need for continued research and policy development to address disparities and ensure fair working conditions globally.
+
+
+
+Country                      Hours
+--------------------------------
+Uruguay                     1,284
+Rwanda                      1,456
+Austria                     1,534
+Ethiopia                    1,549
+Iraq                        1,560
+Somalia                     1,565
+France                      1,565
+The Netherlands             1,627
+Australia                   1,669
+Canada                      1,669
+Cyprus                      1,716
+New Zealand                 1,716
+Madagascar                  1,731
+Slovakia                    1,736
+Norway                      1,742
+Czech Republic              1,768
+Denmark                     1,768
+Ghana                       1,768
+Azerbaijan                  1,768
+Solomon Islands             1,768
+Timor-Leste                 1,768
+Germany                     1,783
+Switzerland                 1,788
+Kyrgyzstan                  1,788
+Ecuador                     1,794
+Panama                      1,794
+Argentina                   1,799
+Hungary                     1,804
+Finland                     1,814
+Belgium                     1,820
+Chad                        1,820
+Israel                      1,820
+Sweden                      1,830
+Belarus                     1,846
+Nicaragua                   1,851
+United Kingdom              1,866
+Ireland                     1,872
+Curacao                     1,872
+Comoros                     1,872
+Luxembourg                  1,872
+Sri Lanka                   1,872
+Italy                       1,877
+United States              1,892
+Spain                       1,892
+Iceland                     1,903
+Japan                       1,903
+Cook Islands                1,924
+Estonia                     1,924
+Marshall Islands            1,924
+Peru                        1,939
+North Macedonia             1,960
+Chile                       1,960
+Russia                      1,965
+South Korea                 1,970
+Brazil                      1,970
+Afghanistan                 1,970
+Kazakhstan                  1,976
+Nigeria                     1,976
+Armenia                     1,976
+Latvia                      1,976
+Montserrat                  1,976
+Portugal                    1,986
+Croatia                     1,986
+Bolivia                     2,002
+Dominican Republic          2,002
+Lithuania                   2,012
+Moldova                     2,012
+Venezuela                   2,012
+Zimbabwe                    2,012
+Ukraine                     2,028
+Aruba                       2,028
+Angola                      2,028
+Greece                      2,028
+Belize                      2,028
+Tanzania                    2,028
+Mauritius                   2,028
+Nauru                       2,028
+Palau                       2,028
+Saint Lucia                 2,028
+The Philippines             2,038
+Indonesia                   2,043
+Bulgaria                    2,054
+Serbia                      2,059
+Romania                     2,069
+Ivory Coast                 2,080
+Nepal                       2,080
+Haiti                       2,080
+Seychelles                  2,080
+Yemen                       2,080
+Poland                      2,085
+Honduras                    2,090
+Burundi                     2,095
+Benin                       2,100
+Thailand                    2,106
+Georgia                     2,106
+Slovenia                    2,117
+Costa Rica                  2,132
+Paraguay                    2,132
+Bermuda                     2,132
+Jamaica                     2,132
+Tajikistan                  2,132
+Vietnam                     2,132
+Albania                     2,142
+Zambia                      2,147
+Bosnia                      2,173
+Uganda                      2,173
+Mali                        2,178
+Laos                        2,184
+South Africa                2,184
+Cayman Islands              2,184
+Malta                       2,184
+Singapore                   2,184
+Sierra Leone                2,199
+Guyana                      2,210
+Montenegro                  2,220
+Mexico                      2,220
+Botswana                    2,227
+Falkland Islands            2,228
+El Salvador                 2,236
+Eswatini                    2,236
+Egypt                       2,236
+Saudi Arabia                2,236
+Namibia                     2,241
+Malaysia                    2,246
+Guatemala                   2,251
+Colombia                    2,256
+Turkey                      2,256
+Algeria                     2,272
+Iran                        2,282
+Togo                        2,288
+Mozambique                  2,288
+Samoa                       2,288
+Senegal                     2,314
+Myanmar                     2,319
+Morocco                     2,340
+Burkina Faso                2,345
+Kenya                       2,350
+Mongolia                    2,355
+Cambodia                    2,360
+China                       2,392
+Tunisia                     2,392
+Brunei Darussalam           2,392
+Lebanon                     2,392
+Maldives                    2,392
+Jordan                      2,423
+Pakistan                    2,428
+Bangladesh                  2,438
+Liberia                     2,454
+Mauritania                  2,470
+India                       2,480
+Qatar                       2,496
+Lesotho                     2,548
+DR Congo                    2,572
+Gambia                      2,600
+Bhutan                      2,636
+United Arab Emirates        2,704
